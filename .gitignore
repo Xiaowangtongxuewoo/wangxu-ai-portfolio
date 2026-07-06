@@ -1,10 +1,10 @@
 node_modules/
 .pnpm-store/
 .vercel/
+.codex-vercel-preload.cjs
 .superpowers/
 scripts/
 tests/
-package.json
 pnpm-lock.yaml
 pnpm-workspace.yaml
 *.log
